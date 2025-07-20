@@ -18,4 +18,4 @@ Run `material_design_model_v48.py` to train and predict.
 Hassan Mahmood Yousafzai
 
 ## License
-[MIT License - see LICENSE file]
+MIT License - see LICENSE file
